@@ -6,3 +6,7 @@
 ## 2. Partie questions
 Veuillez copier les questions et y répondre dans ce README pour les questions textes.
 Pour les autres questions, mettez votre code dans le dossier CODE à la racine de votre repo
+
+
+### 2. Qu’est ce que du code propre ?
+Le code propre est un code qui est facile à lire, à comprendre et à maintenir, même par quelqu'un qui ne l'a pas écrit.
